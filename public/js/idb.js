@@ -56,3 +56,5 @@ function uploadAccountAction() {
         }
     };
 }
+
+window.addEventListener('online', uploadAccountAction);
