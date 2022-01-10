@@ -20,6 +20,9 @@
 
   ## Deployed App
   https://pacific-shore-79406.herokuapp.com/
+
+  ## Screenshot
+  ![Alt text](/budget-App-Screenshot.png)
   
   ## Contributions
   [BenPaulat](https://github.com/BenPaulat)
